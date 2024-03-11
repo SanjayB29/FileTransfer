@@ -14,7 +14,7 @@ This application is built with Streamlit and allows users to upload files to be 
 ### Clone the Repository
 To get started, clone the repository to your local machine using:
 ```bash
-git clone [<repository-url>](https://github.com/SanjayB29/FileTransfer.git)
+git clone https://github.com/SanjayB29/FileTransfer.git
 ```
 
 
